@@ -43,6 +43,7 @@ INSTALLED_APPS = [
     'rest_framework',
     'recipes',
     'users',
+    'diets',
 ]
 
 MEDIA_URL = '/media/'
